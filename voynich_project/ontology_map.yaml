@@ -1,0 +1,21 @@
+ontology:
+  signal_origin:
+    - independent_codex: true
+    - probable_source_overlap: true
+  recursion_types:
+    - morphological: "token structure showing prefix-core-suffix repetition"
+    - statistical: "pattern frequency matching natural language"
+  translation_modes:
+    - symbolic: "meaning inferred from cross-modal patterns"
+    - cipher: "meaning inferred from key-based decoding"
+  validation_protocols:
+    - reproducibility: "all code, data, and results re-run from raw"
+    - falsifiability: "claims scored against public criteria"
+  metadata_tags:
+    - currier_a
+    - currier_b
+    - botanical
+    - astro
+    - balneo
+    - pharma
+    - recipes

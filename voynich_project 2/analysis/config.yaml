@@ -1,0 +1,5 @@
+
+data:
+  transcription_tsv: voynich_project/data/transcription/sample.tsv
+  currier_map_csv: voynich_project/data/metadata/currier_map.csv
+output_dir: voynich_project/output
